@@ -1,3 +1,3 @@
 # fatality-cfg
 
-My community HVH cfg for fatality.win
+My CS2 community HVH cfg for fatality.win
